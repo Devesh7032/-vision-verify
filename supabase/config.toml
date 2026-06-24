@@ -1,0 +1,13 @@
+project_id = "kdwvsofcbbmixsckapap"
+
+[functions.analyze-product]
+verify_jwt = false
+
+[functions.detect-ai]
+verify_jwt = false
+
+[functions.detect-fake]
+verify_jwt = false
+
+[functions.compare-products]
+verify_jwt = false
