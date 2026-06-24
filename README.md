@@ -454,10 +454,10 @@ supabase functions deploy --use-api
 
 ## Author
 
-**Devesh**
-* **Portfolio:** [devesh.dev](https://devesh.dev)
-* **GitHub:** [@DeveshV](https://github.com/DeveshV)
-* **LinkedIn:** [linkedin.com/in/devesh-v](https://linkedin.com/in/devesh-v)
+**Devesh V**
+
+- GitHub: https://github.com/Devesh7032
+- LinkedIn: https://www.linkedin.com/in/devesh-v-4b6498329?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
