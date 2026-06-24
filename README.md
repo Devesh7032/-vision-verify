@@ -400,13 +400,13 @@ Open the newly created `.env` file and enter your values:
 
 
 #### 1. Analysis Dashboard
+<img width="1888" height="912" alt="Screenshot 2026-06-24 195035" src="https://github.com/user-attachments/assets/ddb62396-07ff-4e06-ac10-10c47317c4db" />
 
-<img width="1888" height="912" alt="Screenshot 2026-06-24 195248" src="https://github.com/user-attachments/assets/0c0193b8-7d4f-4cdf-960b-7e07580c9dc1" />
 
 
 #### 2. Single Product Recognition Report
+<img width="1888" height="912" alt="Screenshot 2026-06-24 195248" src="https://github.com/user-attachments/assets/0c0193b8-7d4f-4cdf-960b-7e07580c9dc1" />
 
-<img width="1888" height="912" alt="Screenshot 2026-06-24 195035" src="https://github.com/user-attachments/assets/ddb62396-07ff-4e06-ac10-10c47317c4db" />
 
 
 #### 3. Side-by-Side Comparison Matrix
