@@ -397,16 +397,21 @@ Open the newly created `.env` file and enter your values:
 
 ## Screenshots
 
-*(Placeholder sections for application screenshots)*
+
 
 #### 1. Analysis Dashboard
-`![Dashboard Screen](https://via.placeholder.com/800x450.png?text=VisionVerify+Dashboard)`
+
+<img width="1888" height="912" alt="Screenshot 2026-06-24 195248" src="https://github.com/user-attachments/assets/0c0193b8-7d4f-4cdf-960b-7e07580c9dc1" />
+
 
 #### 2. Single Product Recognition Report
-`![Product Recognition Screen](https://via.placeholder.com/800x450.png?text=VisionVerify+Product+Recognition)`
+
+<img width="1888" height="912" alt="Screenshot 2026-06-24 195035" src="https://github.com/user-attachments/assets/ddb62396-07ff-4e06-ac10-10c47317c4db" />
+
 
 #### 3. Side-by-Side Comparison Matrix
-`![Product Comparison Screen](https://via.placeholder.com/800x450.png?text=VisionVerify+Product+Comparison)`
+
+<img width="1883" height="911" alt="Screenshot 2026-06-24 195705" src="https://github.com/user-attachments/assets/fc4caa3d-8124-40f3-838b-a696cdff2e61" />
 
 #### 4. Forensic AI Manipulation Inspector
 `![AI Detector Screen](https://via.placeholder.com/800x450.png?text=VisionVerify+AI+Detector)`
